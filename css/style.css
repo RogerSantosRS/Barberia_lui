@@ -26,9 +26,9 @@ header{
     height: 600px;
     background: #bc4e9c; 
      /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #6e35925e, #4eb6bc5a), url(../img/hoverimagen.jpg);  
+    background: -webkit-linear-gradient(to bottom #6e359238, #4eb6bc22), url(../img/fondo-barber-lui.jpeg);  
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #6e35925e, #4eb6bc5a), url(../img/hoverimagen.jpg);
+    background: linear-gradient(to bottom, #6e35923d, #4eb6bc29), url(../img/fondo-barber-lui.jpeg);
      /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
